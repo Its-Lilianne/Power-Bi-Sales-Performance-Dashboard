@@ -28,11 +28,11 @@ The Power BI model is built from **three tables**:
 
 * **Sales Table**: Transaction-level data including quantity sold, unit cost, sales amount, date, and customer reference
 * **Products Table**: Product attributes such as brand and color
-* **Customers Table**: Customer demographics including region, gender, and income level
+* **Customers Table**: Customer demographics, including region, gender, and income level
 
 These tables were connected using a **star schema** with Sales as the fact table.
 
-![image alt]
+![image alt](https://github.com/Its-Lilianne/Power-Bi-Sales-Performance-Dashboard/blob/dc49492bd8482fe54fa0a944d5548e4afb09f2e0/Schema.png)
 
 ---
 
@@ -190,7 +190,7 @@ Management should prioritize scaling high-margin product segments, reinforce cos
 
 ---
 
-## 📁 Repository Structure (Suggested)
+## 📁 Repository Structure
 
 ```
 📦 PowerBI-Sales-Dashboard
