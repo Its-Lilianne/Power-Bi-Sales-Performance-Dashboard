@@ -8,7 +8,7 @@ The dataset represents sales transactions for a retail business across **product
 
 ---
 
-![image alt]
+![image alt](https://github.com/Its-Lilianne/Power-Bi-Sales-Performance-Dashboard/blob/9dd3588a1705a34c12aad68fc0fb1a24326fabef/Sales_DASHBOARD.png)
 
 
 ## 🎯 Project Objectives
