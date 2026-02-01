@@ -8,6 +8,9 @@ The dataset represents sales transactions for a retail business across **product
 
 ---
 
+![image alt]
+
+
 ## 🎯 Project Objectives
 
 * Assess and clean raw data across multiple tables
@@ -28,6 +31,8 @@ The Power BI model is built from **three tables**:
 * **Customers Table**: Customer demographics including region, gender, and income level
 
 These tables were connected using a **star schema** with Sales as the fact table.
+
+![image alt]
 
 ---
 
